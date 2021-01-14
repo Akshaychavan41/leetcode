@@ -18,6 +18,6 @@
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python3](./solutions/283.%20Move%20Zeroes.py)|48 ms|
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python3](./solutions/287.%20Find%20the%20Duplicate%20Number.py)|68 ms|
 |289|[ Game of Life](https://leetcode.com/problems/game-of-life/)|[Python3](./solutions/289.%20Game%20of%20Life.py)|24 ms|
-|328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)||
+|328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python3](./solutions/328.%20Odd%20Even%20Linked%20List.py)|44 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python3](./solutions/347.%20Top%20K%20Frequent%20Elements.py)|100 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python3](./solutions/412.%20Fizz%20Buzz.py)|32 ms|
