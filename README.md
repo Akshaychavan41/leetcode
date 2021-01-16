@@ -4,6 +4,7 @@
 |---| ----- | -------- | ------- |
 |11|[ Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python3](./solutions/11.%20Container%20With%20Most%20Water.py)|156 ms|
 |22|[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python3](./solutions/22.%20Generate%20Parentheses.py)|32 ms|
+|36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python3](./solutions/36.%20Valid%20Sudoku.py)|84 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[Python3](./solutions/46.%20Permutations.py)|40 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python3](./solutions/48.%20Rotate%20Image.py)|36 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python3](./solutions/49.%20Group%20Anagrams.py)|116 ms|
