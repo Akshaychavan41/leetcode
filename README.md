@@ -17,6 +17,7 @@
 |94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python3](./solutions/94.%20Binary%20Tree%20Inorder%20Traversal.py)|32 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python3](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.py)|36 ms|
 |108|[ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python3](./solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)||
+|128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python3](./solutions/128.%20Longest%20Consecutive%20Sequence.py)|52 ms|
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[Python3](./solutions/136.%20Single%20Number.py)|148 ms|
 |144|[ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python3](./solutions/144.%20Binary%20Tree%20Preorder%20Traversal.py)|28 ms|
 |145|[ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python3](./solutions/145.%20Binary%20Tree%20Postorder%20Traversal.py)|32 ms|
